@@ -1,8 +1,11 @@
 # murkot333.github.io
 
-Контакты
-Email: murkot333@gmail.com
-Mastodon: mastodon.ml/@murkot333
+# Contacts
 
-My home self-hosted node: https://dreamchaser.duckdns.org/
+Email: murkot333@gmail.com
+
+Mastodon: [mastodon.ml/@murkot333](https://mastodon.ml/@murkot333)
+
+My home self-hosted node: [https://dreamchaser.duckdns.org/](https://dreamchaser.duckdns.org/)
+
 (Nothing interesting here yet)

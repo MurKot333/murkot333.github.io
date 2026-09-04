@@ -1,6 +1,7 @@
 # murkot333.github.io
 
 # Contacts
+Telegram: [@MoorlandsBot](https://t.me/MoorlandsBot)
 
 Email: murkot333@gmail.com
 

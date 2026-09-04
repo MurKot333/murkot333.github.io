@@ -1,5 +1,3 @@
-# murkot333.github.io
-
 # Contacts
 Testing (Privileged users only): [@MoorlandsBot](https://t.me/MoorlandsBot)
 
